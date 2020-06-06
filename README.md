@@ -1,0 +1,3 @@
+This [“magnificent 360-degree panorama”](http://www.eso.org/public/images/eso0932a/) of the Milky Way was created by the [European Southern Observatory](http://www.eso.org/). The source image is in [equirectangular coordinates](/mbostock/3757119), and is reprojected here using the [stereographic projection](/mbostock/3757137), simulating the view of the night sky from varying positions on Earth.
+
+This interactive requires WebGL, but see an earlier, slower software implementation of [raster reprojection](/mbostock/4329423) for comparison.
